@@ -1,0 +1,130 @@
+\documentclass[10pt,a4paper]{article}
+
+\usepackage[utf8]{inputenc}
+\usepackage[a4paper,margin=0.6in]{geometry}
+\usepackage{xcolor}
+\usepackage{titlesec}
+\usepackage{enumitem}
+\usepackage[hidelinks]{hyperref}
+
+\definecolor{primary}{RGB}{30,41,59}
+
+\pagestyle{empty}
+\setlength{\parindent}{0pt}
+
+% Section Style
+\titleformat{\section}
+{\large\bfseries\color{primary}}
+{}{0em}{}
+[\titlerule]
+
+\titlespacing*{\section}{0pt}{10pt}{5pt}
+
+\begin{document}
+
+%=================================================
+% HEADER
+%=================================================
+
+\begin{center}
+{\LARGE \textbf{\color{primary} NUNAVATH NAGALAXMI}}\\[4pt]
+
+Miryalaguda, Nalgonda, Telangana \\
++91 7207407546 \;|\;
+\href{mailto:nagalaxminunavath@gmail.com}{nagalaxminunavath@gmail.com}
+\end{center}
+
+%=================================================
+% CAREER OBJECTIVE
+%=================================================
+
+\section*{CAREER OBJECTIVE}
+
+Dedicated Nursing student seeking an opportunity to apply clinical knowledge, patient care skills, and practical training in a reputed healthcare organization.
+
+%=================================================
+% CLINICAL EXPERIENCE
+%=================================================
+
+\section*{CLINICAL EXPERIENCE}
+
+\textbf{Government Hospital, Nalgonda} \hfill \textbf{6 Months}\\
+\textit{Student Nurse}
+
+\begin{itemize}[leftmargin=*]
+\item Medical Ward – Patient care and vital signs monitoring.
+\item Surgical Ward – Pre-operative and post-operative care assistance.
+\item Obstetrics \& Gynecology – Maternal and newborn care support.
+\item ICU – Patient monitoring and critical care assistance.
+\end{itemize}
+
+\textbf{RETREAT Hospital, Malakpet, Hyderabad} \hfill \textbf{2 Months}\\
+\textit{Clinical Trainee}
+
+\begin{itemize}[leftmargin=*]
+\item Assisted in patient care and daily nursing activities.
+\item Participated in community health programs.
+\item Maintained patient records and monitored recovery.
+\item Communicated with patients and families effectively.
+\end{itemize}
+
+%=================================================
+% EDUCATION
+%=================================================
+
+\section*{EDUCATION}
+
+\textbf{B.Sc Nursing (Pursuing)}\\
+Sri Bhavana College of Nursing
+
+\vspace{4pt}
+
+\textbf{Intermediate (BiPC)} \hfill 2020--2021\\
+Sri Gouthami Junior College, Nalgonda \\
+Percentage: 64\%
+
+\vspace{4pt}
+
+\textbf{SSC} \hfill 2018--2019\\
+KGBV, Vemulapally, Nalgonda \\
+Percentage: 85\%
+
+%=================================================
+% SKILLS
+%=================================================
+
+\section*{SKILLS}
+
+\textbf{Clinical Skills}
+\begin{itemize}[leftmargin=*]
+\item Patient Care
+\item Vital Signs Monitoring
+\item Infection Control
+\item ICU Assistance
+\item Maternal \& Child Care
+\item Medical Documentation
+\end{itemize}
+
+\textbf{Soft Skills}
+\begin{itemize}[leftmargin=*]
+\item Communication
+\item Teamwork
+\item Leadership
+\item Time Management
+\item Problem Solving
+\end{itemize}
+
+%=================================================
+% PERSONAL DETAILS
+%=================================================
+
+\section*{PERSONAL DETAILS}
+
+\begin{tabular}{ll}
+Father's Name: & Nunavath Saida \\
+Gender: & Female \\
+Nationality: & Indian \\
+Languages: & Telugu, English \\
+\end{tabular}
+
+\end{document}
